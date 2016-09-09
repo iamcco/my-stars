@@ -1,0 +1,26 @@
+{
+  "name": "my-stars",
+  "version": "1.0.0",
+  "description": "get your stars on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcco/my-stars.git"
+  },
+  "keywords": [
+    "stars",
+    "github"
+  ],
+  "author": "年糕小豆汤 <ooiss@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcco/my-stars/issues"
+  },
+  "homepage": "https://github.com/iamcco/my-stars#readme",
+  "dependencies": {
+    "exec-frequent": "^1.0.1"
+  }
+}
